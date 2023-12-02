@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mui/base": "^5.0.0-beta.25",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18"
